@@ -1,0 +1,173 @@
+<svg viewBox="0 0 840 455" role="img" aria-labelledby="title description" xmlns="http://www.w3.org/2000/svg">
+  <title id="title">hilbert: Relative forward error</title>
+  <desc id="description">Comparison of pivot strategies. Vertical axis is logarithmic. Zero values appear at the bottom; unavailable values are omitted.</desc>
+  <rect width="840" height="455" fill="#ffffff" />
+  <text x="30" y="32" font-family="system-ui, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">hilbert: Relative forward error</text>
+  <text x="30" y="55" font-family="system-ui, sans-serif" font-size="12" fill="#52616b" text-anchor="start">Logarithmic metric scale · measured experiment records</text>
+  <line x1="100" y1="78" x2="125" y2="78" stroke="#b85414" stroke-width="1" />
+  <text x="132" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#172b4d" text-anchor="start">none</text>
+  <line x1="290" y1="78" x2="315" y2="78" stroke="#1765b5" stroke-width="1" />
+  <text x="322" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#172b4d" text-anchor="start">partial</text>
+  <line x1="480" y1="78" x2="505" y2="78" stroke="#07806e" stroke-width="1" />
+  <text x="512" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#172b4d" text-anchor="start">complete</text>
+  <line x1="100" y1="345" x2="750" y2="345" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="349" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^-15.25</text>
+  <text x="100" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">2</text>
+  <line x1="100" y1="296" x2="750" y2="296" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="300" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^-11.84</text>
+  <text x="230" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">4.8</text>
+  <line x1="100" y1="247" x2="750" y2="247" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="251" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^-8.43</text>
+  <text x="360" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">7.6</text>
+  <line x1="100" y1="198" x2="750" y2="198" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="202" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^-5.03</text>
+  <text x="490" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">10.4</text>
+  <line x1="100" y1="149" x2="750" y2="149" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="153" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^-1.62</text>
+  <text x="620" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">13.2</text>
+  <line x1="100" y1="100" x2="750" y2="100" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="104" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^1.78</text>
+  <text x="750" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">16</text>
+  <line x1="100" y1="100" x2="100" y2="345" stroke="#52616b" stroke-width="1" />
+  <line x1="100" y1="345" x2="750" y2="345" stroke="#52616b" stroke-width="1" />
+  <polyline points="100,345 146.429,326.956 192.857,304.37 239.286,295.538 285.714,263.751 332.143,241.816 378.571,220.621 425,198.525 471.429,178.171 517.857,159.228 564.286,140.336 610.714,118.662 657.143,116.178 703.571,118.066 750,117.11" fill="none" stroke="#b85414" stroke-width="2" stroke-opacity="0.75" stroke-dasharray="7 4" />
+  <circle cx="100" cy="345" r="3.5" fill="#b85414">
+    <title>none, n=2, epsilon=, run=1: 5.6610488670036757E-16</title>
+  </circle>
+  <circle cx="146.429" cy="326.956" r="3.5" fill="#b85414">
+    <title>none, n=3, epsilon=, run=1: 1.0166879092781654E-14</title>
+  </circle>
+  <circle cx="192.857" cy="304.37" r="3.5" fill="#b85414">
+    <title>none, n=4, epsilon=, run=1: 3.777567449652369E-13</title>
+  </circle>
+  <circle cx="239.286" cy="295.538" r="3.5" fill="#b85414">
+    <title>none, n=5, epsilon=, run=1: 1.5530526852274787E-12</title>
+  </circle>
+  <circle cx="285.714" cy="263.751" r="3.5" fill="#b85414">
+    <title>none, n=6, epsilon=, run=1: 2.5167844710517435E-10</title>
+  </circle>
+  <circle cx="332.143" cy="241.816" r="3.5" fill="#b85414">
+    <title>none, n=7, epsilon=, run=1: 8.4251966248883533E-09</title>
+  </circle>
+  <circle cx="378.571" cy="220.621" r="3.5" fill="#b85414">
+    <title>none, n=8, epsilon=, run=1: 2.5057255641807096E-07</title>
+  </circle>
+  <circle cx="425" cy="198.525" r="3.5" fill="#b85414">
+    <title>none, n=9, epsilon=, run=1: 8.6086779404016531E-06</title>
+  </circle>
+  <circle cx="471.429" cy="178.171" r="3.5" fill="#b85414">
+    <title>none, n=10, epsilon=, run=1: 0.00022377310679871828</title>
+  </circle>
+  <circle cx="517.857" cy="159.228" r="3.5" fill="#b85414">
+    <title>none, n=11, epsilon=, run=1: 0.0046409471707873681</title>
+  </circle>
+  <circle cx="564.286" cy="140.336" r="3.5" fill="#b85414">
+    <title>none, n=12, epsilon=, run=1: 0.09545766814456276</title>
+  </circle>
+  <circle cx="610.714" cy="118.662" r="3.5" fill="#b85414">
+    <title>none, n=13, epsilon=, run=1: 3.0654677556167682</title>
+  </circle>
+  <circle cx="657.143" cy="116.178" r="3.5" fill="#b85414">
+    <title>none, n=14, epsilon=, run=1: 4.5622233933687912</title>
+  </circle>
+  <circle cx="703.571" cy="118.066" r="3.5" fill="#b85414">
+    <title>none, n=15, epsilon=, run=1: 3.3720791399002672</title>
+  </circle>
+  <circle cx="750" cy="117.11" r="3.5" fill="#b85414">
+    <title>none, n=16, epsilon=, run=1: 3.9296529203273058</title>
+  </circle>
+  <polyline points="100,345 146.429,328.441 192.857,304.233 239.286,304.859 285.714,262.434 332.143,238.552 378.571,221.565 425,197.596 471.429,180.148 517.857,159.271 564.286,136.873 610.714,121.31 657.143,102.725 703.571,118.971 750,120.733" fill="none" stroke="#1765b5" stroke-width="2" stroke-opacity="0.75" stroke-dasharray="2 3" />
+  <circle cx="100" cy="345" r="3.5" fill="#1765b5">
+    <title>partial, n=2, epsilon=, run=1: 5.6610488670036757E-16</title>
+  </circle>
+  <circle cx="146.429" cy="328.441" r="3.5" fill="#1765b5">
+    <title>partial, n=3, epsilon=, run=1: 8.0161895293916461E-15</title>
+  </circle>
+  <circle cx="192.857" cy="304.233" r="3.5" fill="#1765b5">
+    <title>partial, n=4, epsilon=, run=1: 3.861787750251888E-13</title>
+  </circle>
+  <circle cx="239.286" cy="304.859" r="3.5" fill="#1765b5">
+    <title>partial, n=5, epsilon=, run=1: 3.4932956380387922E-13</title>
+  </circle>
+  <circle cx="285.714" cy="262.434" r="3.5" fill="#1765b5">
+    <title>partial, n=6, epsilon=, run=1: 3.1069070214635068E-10</title>
+  </circle>
+  <circle cx="332.143" cy="238.552" r="3.5" fill="#1765b5">
+    <title>partial, n=7, epsilon=, run=1: 1.4206534958174258E-08</title>
+  </circle>
+  <circle cx="378.571" cy="221.565" r="3.5" fill="#1765b5">
+    <title>partial, n=8, epsilon=, run=1: 2.1542265550090797E-07</title>
+  </circle>
+  <circle cx="425" cy="197.596" r="3.5" fill="#1765b5">
+    <title>partial, n=9, epsilon=, run=1: 9.9875752553235882E-06</title>
+  </circle>
+  <circle cx="471.429" cy="180.148" r="3.5" fill="#1765b5">
+    <title>partial, n=10, epsilon=, run=1: 0.00016307255259380725</title>
+  </circle>
+  <circle cx="517.857" cy="159.271" r="3.5" fill="#1765b5">
+    <title>partial, n=11, epsilon=, run=1: 0.0046086387523223415</title>
+  </circle>
+  <circle cx="564.286" cy="136.873" r="3.5" fill="#1765b5">
+    <title>partial, n=12, epsilon=, run=1: 0.16617999618966539</title>
+  </circle>
+  <circle cx="610.714" cy="121.31" r="3.5" fill="#1765b5">
+    <title>partial, n=13, epsilon=, run=1: 2.0062569148364013</title>
+  </circle>
+  <circle cx="657.143" cy="102.725" r="3.5" fill="#1765b5">
+    <title>partial, n=14, epsilon=, run=1: 39.291910294956367</title>
+  </circle>
+  <circle cx="703.571" cy="118.971" r="3.5" fill="#1765b5">
+    <title>partial, n=15, epsilon=, run=1: 2.9173533433446432</title>
+  </circle>
+  <circle cx="750" cy="120.733" r="3.5" fill="#1765b5">
+    <title>partial, n=16, epsilon=, run=1: 2.2005389899372045</title>
+  </circle>
+  <polyline points="100,345 146.429,327.821 192.857,305.765 239.286,288.497 285.714,262.685 332.143,241.211 378.571,222.343 425,199.306 471.429,179.319 517.857,156.321 564.286,146.662 610.714,117.676 657.143,100 703.571,115.4 750,116.238" fill="none" stroke="#07806e" stroke-width="2" stroke-opacity="0.75" stroke-dasharray="none" />
+  <circle cx="100" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=2, epsilon=, run=1: 5.6610488670036757E-16</title>
+  </circle>
+  <circle cx="146.429" cy="327.821" r="3.5" fill="#07806e">
+    <title>complete, n=3, epsilon=, run=1: 8.8530569779114104E-15</title>
+  </circle>
+  <circle cx="192.857" cy="305.765" r="3.5" fill="#07806e">
+    <title>complete, n=4, epsilon=, run=1: 3.0218144121564821E-13</title>
+  </circle>
+  <circle cx="239.286" cy="288.497" r="3.5" fill="#07806e">
+    <title>complete, n=5, epsilon=, run=1: 4.7929422251630152E-12</title>
+  </circle>
+  <circle cx="285.714" cy="262.685" r="3.5" fill="#07806e">
+    <title>complete, n=6, epsilon=, run=1: 2.9850008031341485E-10</title>
+  </circle>
+  <circle cx="332.143" cy="241.211" r="3.5" fill="#07806e">
+    <title>complete, n=7, epsilon=, run=1: 9.2814646315606343E-09</title>
+  </circle>
+  <circle cx="378.571" cy="222.343" r="3.5" fill="#07806e">
+    <title>complete, n=8, epsilon=, run=1: 1.9021810579596305E-07</title>
+  </circle>
+  <circle cx="425" cy="199.306" r="3.5" fill="#07806e">
+    <title>complete, n=9, epsilon=, run=1: 7.5968052137356651E-06</title>
+  </circle>
+  <circle cx="471.429" cy="179.319" r="3.5" fill="#07806e">
+    <title>complete, n=10, epsilon=, run=1: 0.0001861895013054523</title>
+  </circle>
+  <circle cx="517.857" cy="156.321" r="3.5" fill="#07806e">
+    <title>complete, n=11, epsilon=, run=1: 0.0073898320994914123</title>
+  </circle>
+  <circle cx="564.286" cy="146.662" r="3.5" fill="#07806e">
+    <title>complete, n=12, epsilon=, run=1: 0.034683682905730664</title>
+  </circle>
+  <circle cx="610.714" cy="117.676" r="3.5" fill="#07806e">
+    <title>complete, n=13, epsilon=, run=1: 3.5895184058939869</title>
+  </circle>
+  <circle cx="657.143" cy="100" r="3.5" fill="#07806e">
+    <title>complete, n=14, epsilon=, run=1: 60.777307610453015</title>
+  </circle>
+  <circle cx="703.571" cy="115.4" r="3.5" fill="#07806e">
+    <title>complete, n=15, epsilon=, run=1: 5.1668019715418518</title>
+  </circle>
+  <circle cx="750" cy="116.238" r="3.5" fill="#07806e">
+    <title>complete, n=16, epsilon=, run=1: 4.5180198137387686</title>
+  </circle>
+  <text x="425" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#172b4d" text-anchor="middle">Matrix size n</text>
+  <text x="30" y="426" font-family="system-ui, sans-serif" font-size="12" fill="#52616b" text-anchor="start">Zero values use the plot floor; unavailable points omitted: 0.</text>
+</svg>

@@ -1,0 +1,128 @@
+<svg viewBox="0 0 840 455" role="img" aria-labelledby="title description" xmlns="http://www.w3.org/2000/svg">
+  <title id="title">wilkinson: Element growth factor</title>
+  <desc id="description">Comparison of pivot strategies. Vertical axis is logarithmic. Zero values appear at the bottom; unavailable values are omitted.</desc>
+  <rect width="840" height="455" fill="#ffffff" />
+  <text x="30" y="32" font-family="system-ui, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">wilkinson: Element growth factor</text>
+  <text x="30" y="55" font-family="system-ui, sans-serif" font-size="12" fill="#52616b" text-anchor="start">Logarithmic metric scale · measured experiment records</text>
+  <line x1="100" y1="78" x2="125" y2="78" stroke="#b85414" stroke-width="1" />
+  <text x="132" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#172b4d" text-anchor="start">none</text>
+  <line x1="290" y1="78" x2="315" y2="78" stroke="#1765b5" stroke-width="1" />
+  <text x="322" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#172b4d" text-anchor="start">partial</text>
+  <line x1="480" y1="78" x2="505" y2="78" stroke="#07806e" stroke-width="1" />
+  <text x="512" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#172b4d" text-anchor="start">complete</text>
+  <line x1="100" y1="345" x2="750" y2="345" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="349" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^0.3</text>
+  <text x="100" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">4</text>
+  <line x1="100" y1="296" x2="750" y2="296" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="300" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^2.59</text>
+  <text x="230" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">11.2</text>
+  <line x1="100" y1="247" x2="750" y2="247" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="251" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^4.88</text>
+  <text x="360" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">18.4</text>
+  <line x1="100" y1="198" x2="750" y2="198" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="202" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^7.16</text>
+  <text x="490" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">25.6</text>
+  <line x1="100" y1="149" x2="750" y2="149" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="153" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^9.45</text>
+  <text x="620" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">32.8</text>
+  <line x1="100" y1="100" x2="750" y2="100" stroke="#e3e8ef" stroke-width="1" />
+  <text x="89" y="104" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="end">10^11.74</text>
+  <text x="750" y="367" font-family="system-ui, sans-serif" font-size="11" fill="#52616b" text-anchor="middle">40</text>
+  <line x1="100" y1="100" x2="100" y2="345" stroke="#52616b" stroke-width="1" />
+  <line x1="100" y1="345" x2="750" y2="345" stroke="#52616b" stroke-width="1" />
+  <polyline points="100,332.105 172.222,306.316 244.444,280.526 316.667,254.737 388.889,228.947 461.111,203.158 533.333,177.368 605.556,151.579 677.778,125.789 750,100" fill="none" stroke="#b85414" stroke-width="2" stroke-opacity="0.75" stroke-dasharray="7 4" />
+  <circle cx="100" cy="332.105" r="3.5" fill="#b85414">
+    <title>none, n=4, epsilon=, run=1: 8</title>
+  </circle>
+  <circle cx="172.222" cy="306.316" r="3.5" fill="#b85414">
+    <title>none, n=8, epsilon=, run=1: 128</title>
+  </circle>
+  <circle cx="244.444" cy="280.526" r="3.5" fill="#b85414">
+    <title>none, n=12, epsilon=, run=1: 2048</title>
+  </circle>
+  <circle cx="316.667" cy="254.737" r="3.5" fill="#b85414">
+    <title>none, n=16, epsilon=, run=1: 32768</title>
+  </circle>
+  <circle cx="388.889" cy="228.947" r="3.5" fill="#b85414">
+    <title>none, n=20, epsilon=, run=1: 524288</title>
+  </circle>
+  <circle cx="461.111" cy="203.158" r="3.5" fill="#b85414">
+    <title>none, n=24, epsilon=, run=1: 8388608</title>
+  </circle>
+  <circle cx="533.333" cy="177.368" r="3.5" fill="#b85414">
+    <title>none, n=28, epsilon=, run=1: 134217728</title>
+  </circle>
+  <circle cx="605.556" cy="151.579" r="3.5" fill="#b85414">
+    <title>none, n=32, epsilon=, run=1: 2147483648</title>
+  </circle>
+  <circle cx="677.778" cy="125.789" r="3.5" fill="#b85414">
+    <title>none, n=36, epsilon=, run=1: 34359738368</title>
+  </circle>
+  <circle cx="750" cy="100" r="3.5" fill="#b85414">
+    <title>none, n=40, epsilon=, run=1: 549755813888</title>
+  </circle>
+  <polyline points="100,332.105 172.222,306.316 244.444,280.526 316.667,254.737 388.889,228.947 461.111,203.158 533.333,177.368 605.556,151.579 677.778,125.789 750,100" fill="none" stroke="#1765b5" stroke-width="2" stroke-opacity="0.75" stroke-dasharray="2 3" />
+  <circle cx="100" cy="332.105" r="3.5" fill="#1765b5">
+    <title>partial, n=4, epsilon=, run=1: 8</title>
+  </circle>
+  <circle cx="172.222" cy="306.316" r="3.5" fill="#1765b5">
+    <title>partial, n=8, epsilon=, run=1: 128</title>
+  </circle>
+  <circle cx="244.444" cy="280.526" r="3.5" fill="#1765b5">
+    <title>partial, n=12, epsilon=, run=1: 2048</title>
+  </circle>
+  <circle cx="316.667" cy="254.737" r="3.5" fill="#1765b5">
+    <title>partial, n=16, epsilon=, run=1: 32768</title>
+  </circle>
+  <circle cx="388.889" cy="228.947" r="3.5" fill="#1765b5">
+    <title>partial, n=20, epsilon=, run=1: 524288</title>
+  </circle>
+  <circle cx="461.111" cy="203.158" r="3.5" fill="#1765b5">
+    <title>partial, n=24, epsilon=, run=1: 8388608</title>
+  </circle>
+  <circle cx="533.333" cy="177.368" r="3.5" fill="#1765b5">
+    <title>partial, n=28, epsilon=, run=1: 134217728</title>
+  </circle>
+  <circle cx="605.556" cy="151.579" r="3.5" fill="#1765b5">
+    <title>partial, n=32, epsilon=, run=1: 2147483648</title>
+  </circle>
+  <circle cx="677.778" cy="125.789" r="3.5" fill="#1765b5">
+    <title>partial, n=36, epsilon=, run=1: 34359738368</title>
+  </circle>
+  <circle cx="750" cy="100" r="3.5" fill="#1765b5">
+    <title>partial, n=40, epsilon=, run=1: 549755813888</title>
+  </circle>
+  <polyline points="100,345 172.222,345 244.444,345 316.667,345 388.889,345 461.111,345 533.333,345 605.556,345 677.778,345 750,345" fill="none" stroke="#07806e" stroke-width="2" stroke-opacity="0.75" stroke-dasharray="none" />
+  <circle cx="100" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=4, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="172.222" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=8, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="244.444" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=12, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="316.667" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=16, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="388.889" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=20, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="461.111" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=24, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="533.333" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=28, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="605.556" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=32, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="677.778" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=36, epsilon=, run=1: 2</title>
+  </circle>
+  <circle cx="750" cy="345" r="3.5" fill="#07806e">
+    <title>complete, n=40, epsilon=, run=1: 2</title>
+  </circle>
+  <text x="425" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#172b4d" text-anchor="middle">Matrix size n</text>
+  <text x="30" y="426" font-family="system-ui, sans-serif" font-size="12" fill="#52616b" text-anchor="start">Zero values use the plot floor; unavailable points omitted: 0.</text>
+</svg>
