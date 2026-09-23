@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PivotGrowth.Benchmarks/PivotGrowth.Benchmarks.csproj" />
+    <Project Path="src/PivotGrowth.Cli/PivotGrowth.Cli.csproj" />
+    <Project Path="src/PivotGrowth.Core/PivotGrowth.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PivotGrowth.Tests/PivotGrowth.Tests.csproj" />
+  </Folder>
+</Solution>
